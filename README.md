@@ -3,7 +3,7 @@
 A machine learning web app that predicts house prices based on location, 
 size, condition, and other key features using real estate data from King County, USA.
 
-🌐 **Live App:** [Click here to try it](https://YOUR-STREAMLIT-LINK.streamlit.app)
+🌐 **Live App:** [Click here to try it](https://hamza-house-predictor.streamlit.app/)
 
 ---
 
